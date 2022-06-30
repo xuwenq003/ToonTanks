@@ -22,4 +22,6 @@ private:
 
 	UPROPERTY(VisibleAnywhere, Category = "Components")
 	class UCameraComponent* Camera;
+
+	void Move();
 };
