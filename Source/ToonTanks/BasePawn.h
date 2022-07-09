@@ -16,7 +16,7 @@ public:
 	ABasePawn();
 
 protected:
-	void RotateTurrent(FVector LookAtTarget);
+	void RotateTurret(FVector LookAtTarget);
 
 
 private:
